@@ -6,3 +6,6 @@
 
 - よく使う英語
 - https://qiita.com/Ted-HM/items/7dde25dcffae4cdc7923
+
+- ramdajs 関数の定義 の読み方
+- https://tech.plaid.co.jp/functional-programming-in-javascript/
