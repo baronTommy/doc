@@ -9,3 +9,6 @@
 
 - ramdajs 関数の定義 の読み方
 - https://tech.plaid.co.jp/functional-programming-in-javascript/
+
+- vue 大規模
+- https://speakerdeck.com/kazupon/vue-dot-js-sok-da-gui-mo-apurikai-fa
