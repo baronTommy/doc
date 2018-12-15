@@ -12,3 +12,7 @@
 
 - vue 大規模
 - https://speakerdeck.com/kazupon/vue-dot-js-sok-da-gui-mo-apurikai-fa
+
+- react デコレータ
+- https://moduscreate.com/blog/ext-js-react-mixins/
+- https://www.wiredprairie.us/blog/index.php/archives/2247
