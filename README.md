@@ -16,3 +16,6 @@
 - react デコレータ
 - https://moduscreate.com/blog/ext-js-react-mixins/
 - https://www.wiredprairie.us/blog/index.php/archives/2247
+
+- ts デコレータ
+- https://qiita.com/taqm/items/4bfd26dfa1f9610128bc
