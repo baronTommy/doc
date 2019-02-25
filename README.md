@@ -19,3 +19,6 @@
 
 - ts デコレータ
 - https://qiita.com/taqm/items/4bfd26dfa1f9610128bc
+
+- ReactのTypeScript向けの型定義
+- https://scrapbox.io/mizdra/React%E3%81%AETypeScript%E5%90%91%E3%81%91%E3%81%AE%E5%9E%8B%E5%AE%9A%E7%BE%A9
