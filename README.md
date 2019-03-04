@@ -22,3 +22,6 @@
 
 - ReactのTypeScript向けの型定義
 - https://scrapbox.io/mizdra/React%E3%81%AETypeScript%E5%90%91%E3%81%91%E3%81%AE%E5%9E%8B%E5%AE%9A%E7%BE%A9
+
+- Atomic Components
+- https://qiita.com/kahirokunn/items/b599d2cf04d2580c412c
