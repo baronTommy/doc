@@ -32,4 +32,4 @@
 ---
 
 - doc作成
-- typora, draw.io
+- typora, draw.io, vscode + plantuml
