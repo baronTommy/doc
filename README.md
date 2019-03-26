@@ -29,6 +29,9 @@
 - UML
 - https://qiita.com/github129/items/80d39f2f043489033076
 
+- col, row
+- https://academy.gmocloud.com/wp/wp-content/uploads/2016/04/x160425_DBword_04.png.pagespeed.ic.zAJ5VUq4AD.webp
+
 ---
 
 - doc作成
