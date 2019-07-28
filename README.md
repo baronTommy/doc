@@ -35,6 +35,9 @@
 - react hooks ts 
 - https://mizchi.hatenablog.com/entry/2018/10/26/235323
 
+- TS interfaceとtypeの違い
+- https://qiita.com/tkrkt/items/d01b96363e58a7df830e
+
 ---
 
 - doc作成
