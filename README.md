@@ -38,6 +38,9 @@
 - TS interfaceとtypeの違い
 - https://qiita.com/tkrkt/items/d01b96363e58a7df830e
 
+- 不具合にテストを書いて立ち向かう - t-wadaのブログ
+- https://t-wada.hatenablog.jp/entry/debugging-tests
+
 ---
 
 - doc作成
