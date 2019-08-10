@@ -43,13 +43,10 @@
 
 ---
 ## doc作成
-
 ascii doc を メインで
-
-- README.md
-- ソースコード
+- README.md (SVG化)
+- ソースコード (テキスト)
 - アーティファクトとしてexport
-
 
 ### 図
 - mermaid.js
