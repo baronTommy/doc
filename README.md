@@ -44,14 +44,29 @@
 ---
 
 ## doc作成
+
+### editor
+
+#### web 
+- typora
+- vscode
+
+#### その他
 - UML
-  - mermaid.js
-    - typora, vscode
+   - boostnote + https://convertio.co/ja/pdf-svg/
 
-  - plantuml
-    - boostnote + https://convertio.co/ja/pdf-svg/
+- いろいろ
+  - https://kroki.io/#try
 
+
+### UML
+#### web 
+- mermaid.js
+- nomnoml
+
+#### ascii
 - AsciidocFX
+
 
 
 
