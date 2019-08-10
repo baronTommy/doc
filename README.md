@@ -42,32 +42,20 @@
 - https://t-wada.hatenablog.jp/entry/debugging-tests
 
 ---
-
 ## doc作成
 
-### editor
+ascii doc を メインで
 
-#### web 
-- typora
-- vscode
-
-#### その他
-- UML
-   - boostnote + https://convertio.co/ja/pdf-svg/
-
-- いろいろ
-  - https://kroki.io/#try
+- README.md
+- ソースコード
+- アーティファクトとしてexport
 
 
-### UML
-#### web 
+### 図
 - mermaid.js
 - nomnoml
-
-#### ascii
-- AsciidocFX
-
-
-
-
-
+- boostnote + https://convertio.co/ja/pdf-svg/
+- Monodraw
+- svgbob
+- いろいろ
+  - https://kroki.io/#try
