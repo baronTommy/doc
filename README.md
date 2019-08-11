@@ -49,10 +49,36 @@ ascii doc を メインで
 - アーティファクトとしてexport
 
 ### 図
-- mermaid.js
-- nomnoml
-- boostnote + https://convertio.co/ja/pdf-svg/
-- Monodraw
-- svgbob
-- いろいろ
-  - https://kroki.io/#try
+## 脱 PUML PUMLにできること
+    - mermaid
+    - state-machine-cat
+    - nomnoml
+
+- シーケンス図
+    - mermaid
+
+-ユースケース図
+    - nomnoml
+
+- クラス図
+    - nomnoml
+
+- アクティビティ図
+    - nomnoml
+
+- コンポーネント図
+    - nomnoml
+
+- ステート図
+    - state-machine-cat
+    - nomnoml
+
+- オブジェクト図
+    - nomnoml
+
+- 配置図
+    - nomnoml
+
+## 手書き
+    Monodraw
+    svgbob (https://kroki.io)
