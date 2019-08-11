@@ -42,17 +42,20 @@
 - https://t-wada.hatenablog.jp/entry/debugging-tests
 
 ---
+
 ## doc作成
-ascii doc を メインで
+ascii doc を メインで  
+`README.adoc`
 - README.md (SVG化)
 - ソースコード (テキスト)
 - アーティファクトとしてexport
 
+
 ### 図
 ## 脱 PUML PUMLにできること
-    - mermaid
-    - state-machine-cat
-    - nomnoml
+  - mermaid
+  - state-machine-cat
+  - nomnoml
 
 - シーケンス図
     - mermaid
