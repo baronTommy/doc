@@ -44,11 +44,10 @@
 ---
 
 ## doc作成
-ascii doc を メインで  
+ascii doc を メイン
 `README.adoc`
-- README.md (SVG化)
-- ソースコード (テキスト)
-- アーティファクトとしてexport
+- https://github.com/asciidoctor/asciidoctor-diagram
+- https://github.com/asciidoctor/asciidoctor-vscode
 
 
 ### 図
