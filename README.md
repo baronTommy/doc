@@ -93,3 +93,32 @@ ascii doc を メイン
   https://bpmn.io/
   https://www.draw.io/
 
+---
+## 技術メモ
+  ## ツール
+  - CLI
+  - nvAlt
+  ## フォーマット
+  - 平文
+  - 検索に強いから
+
+## readme
+  ## ツール
+  - VSCode
+
+  ## フォーット
+  - asciidoc
+  - UML
+ 
+ ## ブログ
+   ##フォーマット
+   - markdown
+  
+  
+   
+  
+
+
+
+
+
