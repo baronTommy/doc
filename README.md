@@ -41,6 +41,10 @@
 - 不具合にテストを書いて立ち向かう - t-wadaのブログ
 - https://t-wada.hatenablog.jp/entry/debugging-tests
 
+- スキルアップ
+- https://qiita.com/baby-degu/items/da30fa71b8f48fffc568
+
+
 ---
 
 ## doc作成
