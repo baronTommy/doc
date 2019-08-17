@@ -44,6 +44,8 @@
 - スキルアップ
 - https://qiita.com/baby-degu/items/da30fa71b8f48fffc568
 
+- js プロトタイプチェーン
+- https://qiita.com/howdy39/items/35729490b024ca295d6c
 
 ---
 
