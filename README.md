@@ -50,6 +50,9 @@
 - css, svg, js  
 - https://www.webcreatorbox.com/tech/css-svg-checkbox
 
+- 特殊文字
+- https://lingojam.com/FontsForTwitter
+
 ---
 
 ## doc作成
