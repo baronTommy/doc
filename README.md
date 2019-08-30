@@ -55,6 +55,9 @@
 
 - node.jsの内部構造
 - https://qiita.com/Yoshipe/items/f89449b716968a59e57d
+
+- babelについて
+- https://speakerdeck.com/mukai21/xian-dai-hurontoendoniqian-kasenaiwebpacktobabelwoli-jie-siyou?slide=20
 ---
 
 ## doc作成
