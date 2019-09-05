@@ -58,6 +58,9 @@
 
 - babelについて
 - https://speakerdeck.com/mukai21/xian-dai-hurontoendoniqian-kasenaiwebpacktobabelwoli-jie-siyou?slide=20
+
+- SPA 設計手法
+- https://tech.plaid.co.jp/architecture_frontend_modeling/
 ---
 
 ## doc作成
