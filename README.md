@@ -62,6 +62,10 @@
 
 - SPA 設計手法
 - https://tech.plaid.co.jp/architecture_frontend_modeling/
+
+- react stateの持ち方 (後半
+- https://speakerdeck.com/sonatard/xuan-yan-de-ui?slide=58 
+
 ---
 
 ## doc作成
