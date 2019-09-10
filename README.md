@@ -66,6 +66,9 @@
 - react stateの持ち方 (後半
 - https://speakerdeck.com/sonatard/xuan-yan-de-ui?slide=58 
 
+
+- npm github 管理
+- https://qiita.com/wintyo/items/9ce2110f08b9776fe87f
 ---
 
 ## doc作成
