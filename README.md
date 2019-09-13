@@ -69,6 +69,9 @@
 
 - npm github 管理
 - https://qiita.com/wintyo/items/9ce2110f08b9776fe87f
+
+- react DDD
+- https://github.com/januswel/react-native-web-sample
 ---
 
 ## doc作成
