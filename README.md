@@ -76,6 +76,9 @@
 - サーバレスの話し
 - https://blog.yuuk.io/entry/2019/rethinking-serverless-architecture
 
+- JSモジュールの種類
+- http://ytyaru.hatenablog.com/entry/2019/03/29/000000
+
 ---
 
 ## doc作成
