@@ -72,6 +72,10 @@
 
 - react DDD
 - https://github.com/januswel/react-native-web-sample
+
+- サーバレスの話し
+- https://blog.yuuk.io/entry/2019/rethinking-serverless-architecture
+
 ---
 
 ## doc作成
