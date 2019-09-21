@@ -70,7 +70,7 @@
 - npm github 管理
 - https://qiita.com/wintyo/items/9ce2110f08b9776fe87f
 
-- react DDD
+- react 設計 DDD
 - https://github.com/januswel/react-native-web-sample
 
 - サーバレスの話し
