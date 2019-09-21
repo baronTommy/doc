@@ -72,6 +72,7 @@
 
 - react 設計 DDD
 - https://github.com/januswel/react-native-web-sample
+- https://github.com/tyshgc/webdb_component_design
 
 - サーバレスの話し
 - https://blog.yuuk.io/entry/2019/rethinking-serverless-architecture
