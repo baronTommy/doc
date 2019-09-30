@@ -83,6 +83,8 @@
 - react 動きのあるコンポーネント
 - https://www.framer.com/motion/
 
+- github badge
+- https://shields.io/
 ---
 
 ## doc作成
