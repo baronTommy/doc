@@ -85,6 +85,10 @@
 
 - github badge
 - https://shields.io/
+
+- redux
+- https://makeagif.com/gif/how-redux-works-with-middleware-api-aptJbh
+
 ---
 
 ## doc作成
