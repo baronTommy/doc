@@ -89,6 +89,8 @@
 - redux
 - https://makeagif.com/gif/how-redux-works-with-middleware-api-aptJbh
 
+- state
+- http://izumisy-tech.hatenablog.com/entry/2019/10/13/201747
 ---
 
 ## doc作成
