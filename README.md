@@ -98,6 +98,9 @@
 
 - アニメーション CSS
 - https://qiita.com/baby-degu/items/2516bb55e97de612118b
+
+- github リリース全部消す
+- http://www.alwaystwisted.com/articles/deleting-git-tags-locally-and-on-github
 ---
 
 ## doc作成
