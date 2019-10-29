@@ -101,6 +101,9 @@
 
 - github リリース全部消す
 - http://www.alwaystwisted.com/articles/deleting-git-tags-locally-and-on-github
+
+- slack 通知をわかりやすく
+- https://slack-remind-creator.netlify.com/
 ---
 
 ## doc作成
