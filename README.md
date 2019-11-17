@@ -104,6 +104,12 @@
 
 - slack 通知をわかりやすく
 - https://slack-remind-creator.netlify.com/
+
+- React ディレクトリ構成
+- https://twitter.com/oukayuka/status/1195907612610482176?s=20
+- https://twitter.com/oukayuka/status/1194188513677205504?s=20
+
+
 ---
 
 ## doc作成
