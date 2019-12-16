@@ -54,6 +54,9 @@
 - 特殊文字
 - https://lingojam.com/FontsForTwitter
 
+- 絵文字 自作
+- https://jamstack.studio/emoji/
+
 - node.jsの内部構造
 - https://qiita.com/Yoshipe/items/f89449b716968a59e57d
 
