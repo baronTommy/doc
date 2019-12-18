@@ -1,6 +1,3 @@
-- Atomic Design
-- https://mya-ake.com/posts/component-design-based-on-atomic-design/
-
 - nodeライブラリ
 - https://qiita.com/hatai/items/61030176a254cbe7ff2b
 
@@ -14,18 +11,8 @@
 - vue 大規模
 - https://speakerdeck.com/kazupon/vue-dot-js-sok-da-gui-mo-apurikai-fa
 
-- react デコレータ
-- https://moduscreate.com/blog/ext-js-react-mixins/
-- https://www.wiredprairie.us/blog/index.php/archives/2247
-
 - ts デコレータ
 - https://qiita.com/taqm/items/4bfd26dfa1f9610128bc
-
-- ReactのTypeScript向けの型定義
-- https://scrapbox.io/mizdra/React%E3%81%AETypeScript%E5%90%91%E3%81%91%E3%81%AE%E5%9E%8B%E5%AE%9A%E7%BE%A9
-
-- Atomic Components
-- https://qiita.com/kahirokunn/items/b599d2cf04d2580c412c
 
 - UML
 - https://qiita.com/github129/items/80d39f2f043489033076
@@ -70,13 +57,8 @@
 - react stateの持ち方 (後半
 - https://speakerdeck.com/sonatard/xuan-yan-de-ui?slide=58 
 
-
 - npm github 管理
 - https://qiita.com/wintyo/items/9ce2110f08b9776fe87f
-
-- react 設計 DDD
-- https://github.com/januswel/react-native-web-sample
-- https://github.com/tyshgc/webdb_component_design
 
 - サーバレスの話し
 - https://blog.yuuk.io/entry/2019/rethinking-serverless-architecture
@@ -89,9 +71,6 @@
 
 - github badge
 - https://shields.io/
-
-- redux
-- https://makeagif.com/gif/how-redux-works-with-middleware-api-aptJbh
 
 - state
 - http://izumisy-tech.hatenablog.com/entry/2019/10/13/201747
@@ -108,12 +87,25 @@
 - slack 通知をわかりやすく
 - https://slack-remind-creator.netlify.com/
 
+- 疲れた時
+- https://twitter.com/MinoDriven/status/1127539251761909760?s=20
+
+## react ディレクトリ構成
+
+- Atomic Components
+- https://qiita.com/kahirokunn/items/b599d2cf04d2580c412c
+
+- react 設計 DDD
+- https://github.com/januswel/react-native-web-sample
+- https://github.com/tyshgc/webdb_component_design
+
+- redux
+- https://makeagif.com/gif/how-redux-works-with-middleware-api-aptJbh
+
 - React ディレクトリ構成
 - https://twitter.com/oukayuka/status/1195907612610482176?s=20
 - https://twitter.com/oukayuka/status/1194188513677205504?s=20
 
-- 疲れた時
-- https://twitter.com/MinoDriven/status/1127539251761909760?s=20
 
 ---
 
