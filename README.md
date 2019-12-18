@@ -106,7 +106,8 @@
 - https://twitter.com/oukayuka/status/1195907612610482176?s=20
 - https://twitter.com/oukayuka/status/1194188513677205504?s=20
 
-
+- re-ducks selectors, operations
+- https://qiita.com/Miracle-T-Shirt09/items/c903e3460be6aa187426
 ---
 
 ## doc作成
