@@ -108,6 +108,10 @@
 
 - re-ducks selectors, operations
 - https://qiita.com/Miracle-T-Shirt09/items/c903e3460be6aa187426
+
+- ReactでReduxを使わずにFluxパターンを実装する
+- https://qiita.com/zakioooo/items/2a9aa7c7d370765a3af0
+
 ---
 
 ## doc作成
