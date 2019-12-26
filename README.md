@@ -101,6 +101,7 @@
 
 - redux
 - https://makeagif.com/gif/how-redux-works-with-middleware-api-aptJbh
+- https://qiita.com/yutaro-t/items/49bc849db32d76f7ff5c
 
 - React ディレクトリ構成
 - https://twitter.com/oukayuka/status/1195907612610482176?s=20
