@@ -40,6 +40,10 @@
 - ReactでReduxを使わずにFluxパターンを実装する
     - https://qiita.com/zakioooo/items/2a9aa7c7d370765a3af0
 
+## typescript
+- tsconfig
+  - https://qiita.com/alfas/items/539ade65926deb530e0e
+
 ---
 
 ## doc作成
