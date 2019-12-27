@@ -34,6 +34,7 @@
 - リアルワールド
     - https://github.com/tyshgc/webdb_component_design
     - https://github.com/oukayuka/ReactFirebaseBook
+    - https://github.com/januswel/react-native-web-sample
 
 - React ディレクトリ構成
     - https://github.com/baronTommy/doc/issues/1
