@@ -7,6 +7,9 @@ issue に画像あるから消せない
 - https://qiita.com/Ted-HM/items/7dde25dcffae4cdc7923
 - https://progeigo.org/learning/essential-words-600-plus/
 
+## えいごのにゅあんす
+- https://www.ipa.go.jp/security/rfc/RFC2119JA.html
+
 ## Node
 - babelについて
     - https://speakerdeck.com/mukai21/xian-dai-hurontoendoniqian-kasenaiwebpacktobabelwoli-jie-siyou?slide=20
