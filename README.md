@@ -43,6 +43,7 @@ issue に画像あるから消せない
     - https://github.com/tyshgc/webdb_component_design
     - https://github.com/oukayuka/ReactFirebaseBook
     - https://github.com/januswel/react-native-web-sample
+    - https://github.com/piotrwitek/react-redux-typescript-guide/
 
 - React ディレクトリ構成
     - https://github.com/baronTommy/doc/issues/1
