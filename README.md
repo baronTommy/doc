@@ -54,6 +54,11 @@ issue に画像あるから消せない
 - tsconfig
   - https://qiita.com/alfas/items/539ade65926deb530e0e
 
+## monorepo
+- まとまった記事
+  - https://github.com/joelparkerhenderson/monorepo_vs_polyrepo
+
+
 ---
 
 ## doc作成
