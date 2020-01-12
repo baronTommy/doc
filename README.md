@@ -58,7 +58,9 @@ issue に画像あるから消せない
 - まとまった記事
   - https://github.com/joelparkerhenderson/monorepo_vs_polyrepo
 
-
+## 便利コマンド
+- 終わらないコマンド
+  - https://github.com/http-party/http-server/issues/189#issuecomment-503135959
 ---
 
 ## doc作成
