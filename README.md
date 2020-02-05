@@ -53,7 +53,8 @@ issue に画像あるから消せない
 ## typescript
 - tsconfig
   - https://qiita.com/alfas/items/539ade65926deb530e0e
-
+- トランスパイルなど
+  - https://qiita.com/jagaapple/items/ce0da04be28c35dc7d4f#1-3-babel
 ## monorepo
 - まとまった記事
   - https://github.com/joelparkerhenderson/monorepo_vs_polyrepo
