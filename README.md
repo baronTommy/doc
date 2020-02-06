@@ -62,6 +62,8 @@ issue に画像あるから消せない
 ## 便利コマンド
 - 終わらないコマンド
   - https://github.com/http-party/http-server/issues/189#issuecomment-503135959
+## gif
+- https://github.com/baronTommy/doc/issues/5
 ---
 
 ## doc作成
