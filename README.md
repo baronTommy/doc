@@ -46,6 +46,7 @@ issue に画像あるから消せない
     - https://github.com/piotrwitek/react-redux-typescript-guide/
 
 - React ディレクトリ構成
+    - https://github.com/baronTommy/doc/issues/6
     - https://github.com/baronTommy/doc/issues/1
 - ReactでReduxを使わずにFluxパターンを実装する
     - https://qiita.com/zakioooo/items/2a9aa7c7d370765a3af0
