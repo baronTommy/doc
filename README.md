@@ -49,6 +49,8 @@ issue に画像あるから消せない
     - https://github.com/baronTommy/doc/issues/1
 - ReactでReduxを使わずにFluxパターンを実装する
     - https://qiita.com/zakioooo/items/2a9aa7c7d370765a3af0
+- 思想
+    - https://code.tutsplus.com/tutorials/stateful-vs-stateless-functional-components-in-react--cms-29541
 
 ## typescript
 - tsconfig
