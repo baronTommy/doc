@@ -41,6 +41,7 @@ issue に画像あるから消せない
 ## react, redux
 - Atomic Components
     - https://qiita.com/kahirokunn/items/b599d2cf04d2580c412c
+    - https://github.com/baronTommy/doc/issues/8
 - リアルワールド
     - https://github.com/tyshgc/webdb_component_design
     - https://github.com/oukayuka/ReactFirebaseBook
