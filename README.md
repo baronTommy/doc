@@ -35,6 +35,8 @@ issue に画像あるから消せない
     - https://lingojam.com/FontsForTwitter
 - 絵文字
     - https://jamstack.studio/emoji/
+- エラーページのレスポンス
+    - https://twitter.com/menn/status/1234785170084909057
 
 ## react, redux
 - Atomic Components
