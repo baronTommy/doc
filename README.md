@@ -51,6 +51,8 @@ issue に画像あるから消せない
 - React ディレクトリ構成
     - https://github.com/baronTommy/doc/issues/6
     - https://github.com/baronTommy/doc/issues/1
+    - DDD
+       - https://github.com/baronTommy/doc/issues/9
 
 - React Model
     - https://github.com/baronTommy/doc/issues/7
