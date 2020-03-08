@@ -126,6 +126,7 @@ ascii doc を メイン
 ## GUI
   https://bpmn.io/
   https://www.draw.io/
+  http://staruml.io/
 
 ---
 ## 技術メモ
