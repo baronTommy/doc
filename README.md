@@ -59,6 +59,10 @@ issue に画像あるから消せない
 - 思想
     - https://code.tutsplus.com/tutorials/stateful-vs-stateless-functional-components-in-react--cms-29541
 
+- tips
+    - if component
+      - https://twitter.com/JSitorEditor/status/1236555502399541248
+
 ## typescript
 - tsconfig
   - https://qiita.com/alfas/items/539ade65926deb530e0e
