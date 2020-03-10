@@ -83,6 +83,13 @@ issue に画像あるから消せない
   - https://github.com/http-party/http-server/issues/189#issuecomment-503135959
 ## gif
 - https://github.com/baronTommy/doc/issues/5
+
+
+## XSS , CSRF
+- https://qiita.com/wanko5296/items/142b5b82485b0196a2da
+
+## URL どめいん おりじん ...
+- https://ferret-plus.com/8736
 ---
 
 ## doc作成
